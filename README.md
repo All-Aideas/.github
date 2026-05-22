@@ -15,7 +15,7 @@
 
 ## 🤖 Sobre nosotros
 
-Tenemos varios años de experiencia desarrollando inteligencia artificial. Combinamos el **espíritu de las startups** con la **experiencia de haber trabajado en gobiernos y grandes corporaciones**, lo que nos permite entender y acelerar la transformación digital.
+Tenemos mas  de 10 años de experiencia desarrollando inteligencia artificial. Combinamos el **espíritu de las startups** con la **experiencia de haber trabajado en gobiernos y grandes corporaciones**, lo que nos permite entender y acelerar la transformación digital.
 
 Nuestro foco está en crear soluciones que sean:
 
